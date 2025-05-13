@@ -1,5 +1,5 @@
 ---
-title: "独立开发总结"
+title: "独立开发思考"
 description: "独立开发思考"
 publishDate: "2025-05-12"
 updatedDate: "2025-05-12"

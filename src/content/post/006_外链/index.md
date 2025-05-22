@@ -12,7 +12,7 @@ tags: ["外链"]
 
 ### 1. 导航站收录
 
-* **说明：** 导航站是收集各类网站的平台。例如，[Toolify](http://toolify.com/) 专注于 AI 工具网站，甚至还有导航站的导航站，如 [awesome-navigation](https://github.com/eryajf/awesome-navigation?tab=readme-ov-file)。
+* **说明：** 导航站是收集各类网站的平台。例如，[Toolify](http://toolify.ai/) 专注于 AI 工具网站，甚至还有导航站的导航站，如 [awesome-navigation](https://github.com/eryajf/awesome-navigation?tab=readme-ov-file)。
 * **注意：**
     1.  **相关性：** 你的网站最好与导航站的主题相关。例如，如果你的网站是 AI 写作工具，可以考虑提交给 Toolify。
     2.  **提交策略：** 高流量的导航站通常需要付费提交，而普通网站可能提供免费提交，但审核时间较长。付费提交通常能加快审核速度，并可能带来额外的曝光机会。

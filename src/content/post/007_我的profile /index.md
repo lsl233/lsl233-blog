@@ -15,3 +15,4 @@ tags: ["外链"]
 | leetcode.com   | https://leetcode.com/u/XyshCfukKB  |
 | files.fm       | https://files.fm/ahands233/info    |
 | about.me       | https://about.me/lishilei          |
+| substack.com   | https://substack.com/@lsl233       |

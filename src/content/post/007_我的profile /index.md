@@ -16,3 +16,4 @@ tags: ["外链"]
 | files.fm       | https://files.fm/ahands233/info    |
 | about.me       | https://about.me/lishilei          |
 | substack.com   | https://substack.com/@lsl233       |
+| biolinky.co   | https://biolinky.co/lsl-233       |

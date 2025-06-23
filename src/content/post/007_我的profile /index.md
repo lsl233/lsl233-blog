@@ -19,3 +19,4 @@ tags: ["外链"]
 | biolinky.co       | https://biolinky.co/lsl-233                          |
 | allmylinks.com    | https://allmylinks.com/ahands233                     |
 | websitecarbon.com | https://www.websitecarbon.com/website/tk-emojis-com/ |
+| list.ly           | https://list.ly/list/CWPy-fun-website                |

@@ -32,3 +32,5 @@ tags: ["外链"]
 | savee.it             | https://savee.it/lsl233/                             |
 | ofuse.me             | https://ofuse.me/lsl233                              |
 | www.buzzbii.com      | https://www.buzzbii.com/lsl233                       |
+| www.kuhustle.com     | https://www.kuhustle.com/@ahands233                  |
+| www.humanart.cz      | https://www.humanart.cz/portfolio/lsl233/            |

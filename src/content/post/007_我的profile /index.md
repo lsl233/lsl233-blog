@@ -29,3 +29,6 @@ tags: ["外链"]
 | website.informer.com | https://website.informer.com/tk-emojis.com           |
 | www.pageorama.com    | https://www.pageorama.com/?p=tkemojis                |
 | golosknig.com        | https://golosknig.com/profile/lsl233/                |
+| savee.it             | https://savee.it/lsl233/                             |
+| ofuse.me             | https://ofuse.me/lsl233                              |
+| www.buzzbii.com      | https://www.buzzbii.com/lsl233                       |

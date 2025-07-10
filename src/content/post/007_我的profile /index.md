@@ -41,3 +41,4 @@ tags: ["外链"]
 |hackmd.io|https://hackmd.io/@oIt8b0ULR3648lg6HT5eSg/HJsQmjqrle|
 |portfolium.com.au|https://portfolium.com.au/shileili|
 |websitecarbon.com|https://www.websitecarbon.com/website/blurimg-net/|
+|40billion.com|https://www.40billion.com/profile/379959755|

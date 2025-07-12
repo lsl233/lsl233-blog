@@ -42,3 +42,4 @@ tags: ["外链"]
 |portfolium.com.au|https://portfolium.com.au/shileili|
 |websitecarbon.com|https://www.websitecarbon.com/website/blurimg-net/|
 |40billion.com|https://www.40billion.com/profile/379959755|
+|hypothes.is|https://hypothes.is/users/lsl233|

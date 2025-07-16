@@ -46,3 +46,4 @@ tags: ["外链"]
 | hypothes.is                | https://hypothes.is/users/lsl233                                      |
 | devdojo.com                | https://devdojo.com/ahands233                                         |
 | indiehackers.com           | https://www.indiehackers.com/lsl233                                   |
+| diigo.com                  | https://www.diigo.com/user/lsl233                                     |

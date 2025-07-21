@@ -23,7 +23,7 @@ tags: ["外链"]
 | websitecarbon.com          | https://www.websitecarbon.com/website/tk-emojis-com/                  |
 | list.ly                    | https://list.ly/list/CWPy-fun-website                                 |
 | startupfa.me               | https://startupfa.me/ahands233837                                     |
-| ramen.tools                | ramen.tools/@lsl233                                                   |
+| ramen.tools                | https://ramen.tools/@lsl233                                                   |
 | rentry.co                  | https://rentry.co/geo278mn                                            |
 | gravatar.com               | https://gravatar.com/ahands233                                        |
 | homepage.ninja             | https://homepage.ninja/lsl233                                         |

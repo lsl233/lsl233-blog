@@ -48,3 +48,4 @@ tags: ["外链"]
 | indiehackers.com           | https://www.indiehackers.com/lsl233                                                                               |
 | diigo.com                  | https://www.diigo.com/user/lsl233                                                                                 |
 | yeswiki.hainaut.be         | https://yeswiki.hainaut.be/enseignement1/?QwdeqW&vue=consulter&action=voir_fiche&id_fiche=QwdeqW&message=modif_ok |
+| producthunt.com            | https://www.producthunt.com/@lsl233                                                                               |

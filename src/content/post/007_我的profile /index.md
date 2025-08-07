@@ -49,3 +49,5 @@ tags: ["外链"]
 | diigo.com                  | https://www.diigo.com/user/lsl233                                                                                 |
 | yeswiki.hainaut.be         | https://yeswiki.hainaut.be/enseignement1/?QwdeqW&vue=consulter&action=voir_fiche&id_fiche=QwdeqW&message=modif_ok |
 | producthunt.com            | https://www.producthunt.com/@lsl233                                                                               |
+| website.informer.com       | https://website.informer.com/toolify100.com                                                                       |
+| neospring.org              | https://neospring.org/@lsl233                                                                                     |

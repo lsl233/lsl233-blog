@@ -51,3 +51,4 @@ tags: ["外链"]
 | producthunt.com            | https://www.producthunt.com/@lsl233                                                                               |
 | website.informer.com       | https://website.informer.com/toolify100.com                                                                       |
 | neospring.org              | https://neospring.org/@lsl233                                                                                     |
+|myspace.com|https://myspace.com/lsl233|
